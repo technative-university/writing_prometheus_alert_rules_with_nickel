@@ -1,6 +1,6 @@
 # Source code accompanying the blog article "Writing Prometheus Alert Rules with Nickel"
 
-These yaml and nickel files are discussed in the blog [Writing Prometheus Alert Rules with Nickel]().
+These yaml and nickel files are discussed in the blog [Writing Prometheus Alert Rules with Nickel](https://technative.eu/blog/writing_prometheus_alert_rules_with_nickel/).
 
 ## Links
 
